@@ -1,0 +1,11 @@
+D:\csss\studyASP\TestASP.Model\bin\Debug\net8.0\TestASP.Model.deps.json
+D:\csss\studyASP\TestASP.Model\bin\Debug\net8.0\TestASP.Model.dll
+D:\csss\studyASP\TestASP.Model\bin\Debug\net8.0\TestASP.Model.pdb
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\TestASP.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\TestASP.Model.AssemblyInfoInputs.cache
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\TestASP.Model.AssemblyInfo.cs
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\TestASP.Model.csproj.CoreCompileInputs.cache
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\TestASP.Model.dll
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\refint\TestASP.Model.dll
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\TestASP.Model.pdb
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\ref\TestASP.Model.dll

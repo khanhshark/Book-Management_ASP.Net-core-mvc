@@ -1,0 +1,12 @@
+D:\csss\studyASP\TestASP.Untility\bin\Debug\net8.0\BookASP.Utility.deps.json
+D:\csss\studyASP\TestASP.Untility\bin\Debug\net8.0\BookASP.Utility.dll
+D:\csss\studyASP\TestASP.Untility\bin\Debug\net8.0\BookASP.Utility.pdb
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\BookASP.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\BookASP.Utility.AssemblyInfoInputs.cache
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\BookASP.Utility.AssemblyInfo.cs
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\BookASP.Utility.csproj.CoreCompileInputs.cache
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\BookASP.Utility.dll
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\refint\BookASP.Utility.dll
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\BookASP.Utility.pdb
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\ref\BookASP.Utility.dll
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\BookASP.Utility.csproj.AssemblyReference.cache

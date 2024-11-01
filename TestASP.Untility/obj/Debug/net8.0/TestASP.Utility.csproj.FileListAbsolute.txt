@@ -1,0 +1,11 @@
+D:\csss\studyASP\TestASP.Untility\bin\Debug\net8.0\TestASP.Utility.deps.json
+D:\csss\studyASP\TestASP.Untility\bin\Debug\net8.0\TestASP.Utility.dll
+D:\csss\studyASP\TestASP.Untility\bin\Debug\net8.0\TestASP.Utility.pdb
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\TestASP.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\TestASP.Utility.AssemblyInfoInputs.cache
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\TestASP.Utility.AssemblyInfo.cs
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\TestASP.Utility.csproj.CoreCompileInputs.cache
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\TestASP.Utility.dll
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\refint\TestASP.Utility.dll
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\TestASP.Utility.pdb
+D:\csss\studyASP\TestASP.Untility\obj\Debug\net8.0\ref\TestASP.Utility.dll

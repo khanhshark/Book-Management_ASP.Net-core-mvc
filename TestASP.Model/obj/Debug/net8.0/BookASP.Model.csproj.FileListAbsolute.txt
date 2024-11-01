@@ -1,0 +1,12 @@
+D:\csss\studyASP\TestASP.Model\bin\Debug\net8.0\BookASP.Model.deps.json
+D:\csss\studyASP\TestASP.Model\bin\Debug\net8.0\BookASP.Model.dll
+D:\csss\studyASP\TestASP.Model\bin\Debug\net8.0\BookASP.Model.pdb
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\BookASP.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\BookASP.Model.AssemblyInfoInputs.cache
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\BookASP.Model.AssemblyInfo.cs
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\BookASP.Model.csproj.CoreCompileInputs.cache
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\BookASP.Model.dll
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\refint\BookASP.Model.dll
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\BookASP.Model.pdb
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\ref\BookASP.Model.dll
+D:\csss\studyASP\TestASP.Model\obj\Debug\net8.0\BookASP.Model.csproj.AssemblyReference.cache
